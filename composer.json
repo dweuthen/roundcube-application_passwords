@@ -1,7 +1,8 @@
 {
     "name": "dweuthen/application_passwords",
     "type": "roundcube-plugin",
-    "description": "Plugin to manage application-specific passsords.",
+    "description": "Roundcube plugin to manage application-specific passsords.",
+    "homepage" : "https://github.com/dweuthen/roundcube-application_passwords",
     "license": "GNU GPLv3+",
     "version": "0.1.0",
     "authors": [

@@ -1,7 +1,7 @@
 Application-specific passwords
 ==============================
 
-This RoundCube plugin adds support for managing application-specific passwords to settings.
+This RoundCube plugin adds support for managing application-specific passwords to settings task.
 
 Installation
 ------------

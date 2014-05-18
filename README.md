@@ -6,7 +6,7 @@ This RoundCube plugin adds support for managing application-specific passwords t
 Installation
 ------------
 - Clone from github:
-    HOME_RC/plugins$ git clone [https://github.com/dweuthen/roundcube-application_passwords.git](https://github.com/dweuthen/roundcube-application_passwords.git)
+    HOME_RC/plugins$ git clone [https://github.com/dweuthen/roundcube-application_passwords.git](https://github.com/dweuthen/roundcube-application_passwords.git) application_passwords
 
 - Activate the plugin into HOME_RC/config/main.inc.php:
     $rcmail_config['plugins'] = array('application_passwords');

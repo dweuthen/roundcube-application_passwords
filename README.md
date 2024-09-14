@@ -1,3 +1,7 @@
+> [!WARNING]  
+> As I no longer use Roundcube, I have decided to finally archive this repository.
+
+
 Application Passwords Plugin for Roundcube
 ==========================================
 This RoundCube plugin adds support for managing application-specific
